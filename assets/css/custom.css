@@ -1,0 +1,100 @@
+/* common css start*/
+:root {
+    --primary-color: #45ff01;
+    --secondary-color: #6CFF01;
+}
+
+/* common css end */
+
+/* top header start*/
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-contact .rs-contact-info li i {
+    color: var(--primary-color);
+}
+
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-contact .rs-contact-info li a:hover {
+    color: var(--primary-color);
+}
+
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-sl-share .clearfix .opening em i {
+    color: var(--primary-color);
+}
+
+.full-width-header .rs-header .toolbar-area.topbar-style1 .toolbar-sl-share .clearfix li a i:hover {
+    color: var(--primary-color);
+}
+
+/* top header  end */
+
+/* nabar start */
+.full-width-header .rs-header .menu-area .logo-area img {
+    margin-left: -10px;
+    max-height: 100px !important;
+}
+
+.full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:hover {
+    color: var(--primary-color) !important;
+}
+
+.full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li {
+    margin-right: 20px !important;
+
+}
+
+.full-width-header .rs-header .expand-btn-inner ul .search-parent a i:hover {
+    color: var(--primary-color) !important;
+}
+
+.full-width-header .rs-header .expand-btn-inner ul .btn-quote .quote-button {
+    background: var(--primary-color) !important;
+}
+
+.full-width-header .rs-header .expand-btn-inner ul .btn-quote .quote-button:hover {
+    background: black !important;
+}
+
+/* nabar end */
+
+/* banner section start */
+.rs-slider.rs-slider-style2.rs-slider-style4 .container .content-part .sl-subtitle {
+    color: var(--primary-color);
+}
+
+.readon.more {
+    background: var(--primary-color) !important;
+}
+
+.readon.more:hover {
+    background: black !important;
+}
+
+.rs-services.services-style2 .services-box.services-yellow-box {
+    background: var(--primary-color) !important;
+}
+
+.rs-services.services-style2 .services-box .services-content .title {
+    font-size: 17px !important;
+}
+
+/* banner section end */
+
+/* why choose us section start  */
+.sec-title2 .sub-text {
+    color: var(--primary-color) !important;
+}
+
+/* why choose us section end */
+/* footer start  */
+#scrollUp i {
+    background: var(--primary-color) !important;
+}
+
+/* footer end */
+
+/* responsive start */
+@media only screen and (max-width: 1366px) {
+    .rs-choose.choose-style2 .choose-content {
+        padding: 0px 30px 100px !important;
+    }
+}
+
+/* responsive end */
